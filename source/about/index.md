@@ -3,6 +3,8 @@ title: about
 date: 2025-05-10 21:35:03
 ---
 
+Diese Seite ist auch auf Deutsch verfügbar. [🇩🇪](about-de)
+
 ## Imprint
 Mr. Sven Lange
 
