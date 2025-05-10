@@ -1,1 +1,4 @@
 
+[submodule "themes/cactus"]
+	path = themes/cactus
+	url = git@github.com:KastenKlicker/hexo-theme-cactus.git
