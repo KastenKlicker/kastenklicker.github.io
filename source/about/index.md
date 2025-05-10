@@ -14,7 +14,7 @@ Elisabeth-Castonier-Platz 21
 
 ## Privay Notice
 
-The owner of this blog, Mr. Lange, does not collect data, therefor data processing of personal data takes place.
+The owner of this blog, Mr. Lange, does not collect data, therefor data processing of personal data doesn't take place.
 
 ### Hosting
 
