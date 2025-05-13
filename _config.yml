@@ -3,9 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: KastenKlicker's blog
+title: KastenKlicker
 subtitle: ''
-description: ''
+description: >-
+  Blog and landing page of some CS students projects and ideas.
+  
+
+  This blog is still pretty empty, but I'm trying to add some old projects to the time line. :)
+
+
+  If any questions arise, don't hesitate to contact me down below.👇
 keywords:
 author: KastenKlicker
 language: en
